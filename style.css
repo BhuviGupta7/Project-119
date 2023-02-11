@@ -1,0 +1,19 @@
+body{
+    background-color: lightpink;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+h1 
+{
+    font-family: 'Oswald', sans-serif;
+    color: purple;
+    background-color: whitesmoke;
+}
+
+p{
+    font-size: bold;
+}
